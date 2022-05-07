@@ -1,4 +1,2 @@
-# Learn-Css
-repo folder" untuk belajar css
-
-* folder" hasil belajar css
+# Learn-CSS
+repo, I learned css through youtube
